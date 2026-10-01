@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1>👋 Hey! I'm Lucas.</h1>
 
-<!--
-**LucasOsejo/LucasOsejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Economist from 🇨🇴 <b>Colombia</b>, currently living in 🇪🇸 <b>Valencia, Spain</b>.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+🎓 Economics graduate from the <b>Universitat de València</b><br/>
+🤖 Currently doing a Master's in <b>AI, Big Data & Cloud</b> at <b>EDEM</b><br/>
+📊 Into econometrics, data analysis and telling stories with numbers<br/>
+💼 Currently at <b>Solved</b>
+</p>
